@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Kevin Dougherty
+# Hi, I'm Kevin Dougherty
 
-🎯 **Data & Analytics Professional | Atmospheric Scientist | Python Developer**  
+**Data & Analytics Professional | Atmospheric Scientist | Python Developer**  
 I specialize in turning large datasets into actionable insights. My work spans atmospheric science, big data workflows, and building automated systems that improve efficiency and reliability. I’m currently transitioning my career into data analytics & engineering roles in tech, finance, and business operations.
 
 ---
 
-## 🔑 Key Skills
+## Key Skills
 - **Programming & Data**: Python (Pandas, NumPy, Matplotlib, SciPy, Xarray), SQL, dbt (learning)  
 - **Visualization & BI**: Tableau, Power BI, Seaborn  
 - **Big Data & Workflows**: Dask, multiprocessing, workflow automation (Rocoto, wxflow)  
@@ -13,13 +13,13 @@ I specialize in turning large datasets into actionable insights. My work spans a
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 *Coming soon!*  
 
 
 ---
 
-## 🌍 Open Source Contributions
+## Open Source Contributions
 I’ve contributed to several public NOAA/EMC projects used by the atmospheric science and data community:  
 
 - [**EMCPy**](https://github.com/NOAA-EMC/emcpy) — Designed and optimized visualization system for flexible diagnostics, streamlining performance analysis across assimilation systems.
@@ -30,10 +30,10 @@ I’ve contributed to several public NOAA/EMC projects used by the atmospheric s
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-dougherty/)  
 - 📧 Email: kdougherty324@gmail.com
 
 ---
 
-⭐️ **Always building, always learning.** My repos are a mix of polished portfolio projects and experiments in analytics engineering, BI dashboards, and automation.
+**Always building, always learning.** My repos are a mix of polished portfolio projects and experiments in analytics engineering, BI dashboards, and automation.
